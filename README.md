@@ -1,8 +1,6 @@
-# "Look At" art project 
+# "Look At" art project   ("Look At" =  Meditation )
 <br/><br/> 
 
-###  "Look At" =  Meditation
-<br/><br/>
 <br/><br/>
 
 ### Look At  2 : Two worlds
