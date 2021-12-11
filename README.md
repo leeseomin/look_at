@@ -1,7 +1,7 @@
 # "Look At" art project 
+<br/><br/> 
 
-
-###  Look At is Meditation
+###  "Look At" is Meditation
 <br/><br/>
 <br/><br/>
 
