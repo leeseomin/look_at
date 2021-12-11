@@ -3,7 +3,7 @@
 
 ### Look At 2 : 
  
- <img src="https://github.com/leeseomin/arising/blob/main/art/2.png" width="2000">
+ <img src="https://github.com/leeseomin/look_at/blob/main/ART/2.png" width="2000">
 
 <br/><br/>
 
