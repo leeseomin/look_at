@@ -1,4 +1,6 @@
-# "Look At" art project   ("Look At" =  Meditation )
+# "Look At" art project 
+
+("Look At" =  Meditation )
 <br/><br/> 
 
 <br/><br/>
