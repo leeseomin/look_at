@@ -1,9 +1,9 @@
 # "Look At" art project 
 
 
-### Look At 1 : 
+### Look At 2 : 
  
- <img src="https://github.com/leeseomin/arising/blob/main/art/arise79.png" width="2000">
+ <img src="https://github.com/leeseomin/arising/blob/main/art/2.png" width="2000">
 
 <br/><br/>
 
