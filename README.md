@@ -1,6 +1,8 @@
 # "Look At" art project 
 
-
+<br/>
+###  Look At is Meditation
+<br/>
 ### Look At  2 : Two worlds
  
  <img src="https://github.com/leeseomin/look_at/blob/main/ART/2.png" width="2000">
