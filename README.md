@@ -7,7 +7,7 @@
 
 ### Look At  2 : Two worlds
  
- <img src="https://github.com/leeseomin/look_at/blob/main/ART/2.png" width="2000">
+ <img src="https://github.com/leeseomin/look_at/blob/main/ART/2a.png" width="2000">
 
 <br/><br/>
 
