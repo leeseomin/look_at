@@ -163,6 +163,14 @@
 <br/><br/> 
 
 
+### Look At  35
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look35c.png" width="2000">
+
+<br/><br/> 
+
+
+
 
 
 ### Look At 5 
