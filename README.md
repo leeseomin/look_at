@@ -5,11 +5,6 @@
 
 <br/><br/>
 
-### Look At  2 : Two worlds
- 
- <img src="https://github.com/leeseomin/look_at/blob/main/ART/2c.png" width="2000">
-
-<br/><br/>
 
 
 ### Look At 3 : Meditation at dawn
