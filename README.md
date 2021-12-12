@@ -94,7 +94,7 @@
 
 <br/><br/>
 
-### Look At  19
+### Look At  19 : A word '미' that means beauty in Korean 
 
 <img src="https://github.com/leeseomin/look_at/blob/main/ART/look19e.png" width="2000">
 
@@ -102,7 +102,7 @@
 
 
 
-### Look At 5 :  A word '미' that means beauty in Korean 
+### Look At 5 
  
  <img src="https://github.com/leeseomin/look_at/blob/main/ART/5h.png" width="2000">
 
