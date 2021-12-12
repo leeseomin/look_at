@@ -147,6 +147,15 @@
 
 
 
+### Look At  32
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look32h.png" width="2000">
+
+<br/><br/> 
+
+
+
+
 ### Look At 5 
  
  <img src="https://github.com/leeseomin/look_at/blob/main/ART/5h.png" width="2000">
