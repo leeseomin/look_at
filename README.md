@@ -101,6 +101,12 @@
 <br/><br/>
 
 
+### Look At  20 : A word '미' that means beauty in Korean 
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look20.png" width="2000">
+
+<br/><br/> 
+
 
 ### Look At 5 
  
