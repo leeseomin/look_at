@@ -1,4 +1,4 @@
-# "Look At" art project : Beauty and zen
+# "Look At" art project : Beauty and Zen
 
 ### Watch it in dark mode !!
 
