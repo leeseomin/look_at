@@ -102,7 +102,7 @@
 
 
 
-### Look At 5
+### Look At 5 :  A word '미' that means beauty in Korean 
  
  <img src="https://github.com/leeseomin/look_at/blob/main/ART/5h.png" width="2000">
 
