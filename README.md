@@ -1,6 +1,6 @@
 # "Look At" art project : Beauty and Zen
 
-### Watch it in dark mode !!
+### :star: Watch it in dark mode !!
 
 
 <br/><br/>
