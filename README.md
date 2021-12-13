@@ -239,7 +239,7 @@
 <br/><br/> 
 
 
-### Look At  48
+### Look At  48 : cordoba in my mind 
 
 <img src="https://github.com/leeseomin/look_at/blob/main/ART/look48h.png" width="2000">
 
