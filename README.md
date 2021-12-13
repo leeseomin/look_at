@@ -330,6 +330,13 @@
 <br/><br/> 
 
 
+### Look At 66
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look66c.png" width="2000">
+
+<br/><br/> 
+
+
 
 ### Look At 70
 
