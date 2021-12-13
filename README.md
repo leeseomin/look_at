@@ -255,7 +255,7 @@
 <br/><br/> 
 
 
-### Look At 56 : Sleeping baby elephant
+### Look At 56 : Sleeping little elephant
 
 <img src="https://github.com/leeseomin/look_at/blob/main/ART/look56.png" width="2000">
 
