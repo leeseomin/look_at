@@ -24,7 +24,7 @@
 
 ### Look At  7 : Meditation at night
 
-<img src="https://github.com/leeseomin/look_at/blob/main/ART/look7x.png" width="2000">
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look7h.png" width="2000">
 
 <br/><br/>
 
