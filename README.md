@@ -285,6 +285,15 @@
 <br/><br/> 
 
 
+
+### Look At 55
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look55.png" width="2000">
+
+<br/><br/> 
+
+
+
 ### Look At 56 : A sleeping little elephant
 
 <img src="https://github.com/leeseomin/look_at/blob/main/ART/look56.png" width="2000">
