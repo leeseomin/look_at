@@ -225,6 +225,14 @@
 
 
 
+### Look At 50
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look50h.png" width="2000">
+
+<br/><br/> 
+
+
+
 
 ### Look At 5 
  
