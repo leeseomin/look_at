@@ -80,7 +80,7 @@
 
 ### Look At  16 : suffering
 
-<img src="https://github.com/leeseomin/look_at/blob/main/ART/look16.png" width="2000">
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look16h.png" width="2000">
 
 <br/><br/>
 
