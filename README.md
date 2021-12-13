@@ -174,7 +174,7 @@
 
 ### Look At  38
 
-<img src="https://github.com/leeseomin/look_at/blob/main/ART/look38.png" width="2000">
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look38h.png" width="2000">
 
 <br/><br/> 
 
