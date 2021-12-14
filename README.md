@@ -1,6 +1,6 @@
 # "Look At" art project : Beauty and Zen
 
-### :star: Watch it in dark mode !!
+### :star: Must Watch it in dark mode !!
 
 ### A word '미' =  beauty in Korean
 
