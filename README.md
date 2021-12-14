@@ -419,6 +419,13 @@
 <br/><br/> 
 
 
+### Look At 82
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look82.png" width="2000">
+
+<br/><br/> 
+
+
 
 
 ### Look At 5 
