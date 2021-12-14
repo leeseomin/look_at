@@ -140,6 +140,17 @@
 <br/><br/> 
 
 
+
+
+### Look At  27
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/look27.png" width="2000">
+
+<br/><br/> 
+
+
+
+
 ### Look At  30
 
 <img src="https://github.com/leeseomin/look_at/blob/main/ART/look30.png" width="2000">
