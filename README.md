@@ -283,7 +283,7 @@ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4469
 ### Look At 49
 
 <img src="https://github.com/leeseomin/look_at/blob/main/ART/look49.png" width="2000">
-
+https://foundation.app/@Techne_0_1/lookat/1
 <br/><br/> 
 
 
