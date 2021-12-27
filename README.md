@@ -6,6 +6,14 @@
 
 <br/><br/>
 
+### NFT marketplaces
+
+https://foundation.app/collection/lookat
+
+https://async.art/u/leeseomin/collection 
+
+<br/><br/>
+
 ### Look At 1
  
  <img src="https://github.com/leeseomin/look_at/blob/main/ART/look1.png" width="2000">
@@ -559,7 +567,7 @@ https://foundation.app/@Techne_0_1/lookat/1
 ### Look At 155
 
 <img src="https://github.com/leeseomin/look_at/blob/main/ART/look155YY.png" width="2000">
-
+https://foundation.app/@Techne_0_1/lookat/2
 <br/><br/> 
 
 
