@@ -8,6 +8,8 @@
 
 ### NFT marketplaces
 
+https://opensea.io/collection/lookatart 
+
 https://foundation.app/collection/lookat
 
 https://async.art/u/leeseomin/collection 
