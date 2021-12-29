@@ -618,18 +618,18 @@ https://foundation.app/@Techne_0_1/lookat/2
 
 ### Look At 175
 
-<img src="https://github.com/leeseomin/look_at/blob/main/ART/175x.png" height="2500">
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/175x.png" width="2000">
 <br/><br/> 
 
 ### Look At 177
 
-<img src="https://github.com/leeseomin/look_at/blob/main/ART/177.png" height="2500">
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/177.png" width="2000">
 <br/><br/> 
 
 
 ### Look At 200
 
-<img src="https://github.com/leeseomin/look_at/blob/main/ART/200h.png" height="2500">
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/200h.png" width="2000">
 <br/><br/> 
 
 
