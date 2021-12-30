@@ -690,7 +690,7 @@ https://foundation.app/@Techne_0_1/lookat/2
 
 ### Look At 225
 
-<img src="https://github.com/leeseomin/look_at/blob/main/ART/224h.png" width="2000">
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/225h.png" width="2000">
 <br/><br/> 
 
 
