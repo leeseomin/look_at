@@ -841,9 +841,22 @@ https://foundation.app/@Techne_0_1/lookat/2
 <br/><br/> 
 
 
+### Look At 248
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/248.png" width="2000">
+<br/><br/> 
 
 
+### Look At 249
 
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/249.png" width="2000">
+<br/><br/> 
+
+
+### Look At 250
+
+<img src="https://github.com/leeseomin/look_at/blob/main/ART/250.png" width="2000">
+<br/><br/> 
 
 
 
