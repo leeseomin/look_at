@@ -8,7 +8,9 @@
 
 ### NFT marketplaces
 
-https://opensea.io/collection/lookatart 
+https://opensea.io/collection/lookatart   
+
+<br/>
 
 https://foundation.app/collection/lookat
 
