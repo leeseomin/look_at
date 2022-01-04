@@ -45,6 +45,15 @@ https://async.art/u/leeseomin/collection
 <br/><br/>
 
 
+### Look At 6
+ 
+ <img src="https://github.com/leeseomin/look_at/blob/main/ART/6.png" width="2000">
+
+<br/><br/>
+
+
+
+
 ### Look At  7 : Meditation at night
 
 <img src="https://github.com/leeseomin/look_at/blob/main/ART/look7h.png" width="2000">
